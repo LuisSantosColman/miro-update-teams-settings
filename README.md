@@ -86,9 +86,9 @@ __Note__: If the person running the script is not a __Company Admin__ with the _
 
 6.3. In your command line interface navigate to the directory where you have placed the script files (see step 2.2) 
 
-6.4. In your command line interface run `node deleteEmptyTeams.js`. This command will trigger the script.
+6.4. In your command line interface run `node updateTeams.js`. This command will trigger the script.
 
-## Step 7. Review the folder `miro_teams_deletion_output_files`
+## Step 7. Review the folder `miro_teams_update_output_files`
 
 Within the same folder where this script lives, the script creates a folder called `miro_teams_deletion_output_files`. Within this folder you will find the below reports:
 
