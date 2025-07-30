@@ -377,8 +377,6 @@ async function getTeams(orgId, cursor) {
         }
         else {
             console.log('Getting Miro Teams COMPLETE...');
-           // await getBoards(numberOfRequests);
-
             if (Object.keys(getIndividualTeamsErrors).length === 0) {
 
                 if (!IS_TEST) {
