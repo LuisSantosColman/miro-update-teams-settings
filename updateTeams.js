@@ -14,7 +14,7 @@ const MIRO_ORGANIZATION_ID = 'YOUR_MIRO_ORGANIZATION_ID'; // Replace with your M
 * The variable TEAM_SETTINGS_PAYLOAD is the JSON payload of the settings you want to change. Modify this payload to match the specific settings you would like to change
 * To see examples of payloads for the existing Miro settings, please see this mapping table: https://docs.google.com/spreadsheets/d/1pd9WuR_7XWVg84h8c7I3kxaYmYnvNKlAcT5f9M5hvUg/edit?usp=sharing
 * Official Team Settings API documentation: https://developers.miro.com/reference/enterprise-update-team-settings
-* Adjust the below JSON file with the respective paylod to update the settings you want to update
+* Adjust the below JSON object with the respective payload to update the settings you would like to change
 */
 const TEAM_SETTINGS_PAYLOAD = {
     'teamInvitationSettings': {
