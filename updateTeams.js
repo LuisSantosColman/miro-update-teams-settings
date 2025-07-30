@@ -1,7 +1,7 @@
 /* 
 DISCLAIMER:
 The content of this project is subject to the Miro Developer Terms of Use: https://miro.com/legal/developer-terms-of-use/
-This script is provided only as an example to illustrate how to identify Miro Teams with no Boards within and to remove these empty Teams.
+This script is provided only as an example to illustrate how to update Miro team settings via API.
 The usage of this script is at the sole discretion and responsibility of the customer and is to be tested thoroughly before running it on Production environments.
 
 Script Author: Luis Colman (luis.s@miro.com) | Global Senior Solutions Architect at Miro | LinkedIn: https://www.linkedin.com/in/luiscolman/
