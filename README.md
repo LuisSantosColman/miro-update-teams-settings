@@ -95,8 +95,6 @@ Within the same folder where this script lives, the script creates a folder call
   - `Miro_Teams_Update_Results.json`: Contains the results of the team deletions in a JSON file
   - `Miro_Teams_Overview.csv`: Contains an overview of all teams within the Miro account in a .CSV file
   - `Miro_Teams_Overview.json`: Contains an overview of all teams within the Miro account in a JSON file
-  - `Miro_Teams_to_Delete.csv`: Contains the empty teams to be deleted in a .CSV file
-  - `Miro_Teams_to_Delete.json`: Contains the empty teams to be deleted in a JSON file
   - `Script_Errors.csv`: Contains API errors (if any) in a CSV file. This report is created only if errors occurred, otherwise the file will not be present
   - `Script_Errors.json`: Contains API errors (if any) in a JSON file. This report is created only if errors occurred, otherwise the file will not be present
 
