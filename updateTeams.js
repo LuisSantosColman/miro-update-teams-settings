@@ -82,10 +82,10 @@ function jsonToCsv(jsonData) {
         
         // Get the headers
         if (IS_TEST) { 
-            headers = (Object?.keys(jsonData).length > 0 ? Object?.keys(jsonData[Object?.keys(jsonData)[0]]) : ['NO DELETIONS OCCURRED - TEST MODE WAS ON']);
+            headers = (Object?.keys(jsonData).length > 0 ? Object?.keys(jsonData[Object?.keys(jsonData)[0]]) : ['NO UPDATES OCCURRED - TEST MODE WAS ON']);
         }
         else {
-            headers = (Object?.keys(jsonData).length > 0 ? Object?.keys(jsonData[Object?.keys(jsonData)[0]]) : ['NO DELETIONS OCCURRED - NO DATA TO SHOW']);
+            headers = (Object?.keys(jsonData).length > 0 ? Object?.keys(jsonData[Object?.keys(jsonData)[0]]) : ['NO UPDATES OCCURRED - NO DATA TO SHOW']);
         }
         csv += headers.join(',') + '\n';
         
