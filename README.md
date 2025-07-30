@@ -80,7 +80,7 @@ __Note__: If the person running the script is not a __Company Admin__ with the _
   - `IS_TEST`: set to `true` to run the script in test mode (no deletions will occur only reports will be generated). Set to `false` to perform the Miro Team deletions - code line `10`
   - `TOKEN`: replace value with your REST API token from step 5.6  - code line `11`
   - `MIRO_ORGANIZATION_ID`: replace value with your Miro Organization ID from step 5.7 - code line `12`
-  - `TEAM_SETTINGS_PAYLOAD`: replace the JSON object with the JSON corresponding to the team settings you would like to change. To locate the API payload corresponding to the Team Settings in the Miro UI please review [this mapping table](https://docs.google.com/spreadsheets/d/1pd9WuR_7XWVg84h8c7I3kxaYmYnvNKlAcT5f9M5hvUg/edit?usp=sharing). Please make sure you confirm the payload with the official [Miro Teams Settings API documentation](https://developers.miro.com/reference/enterprise-update-team-settings) to make sure you are passing the correct desired values.
+  - `TEAM_SETTINGS_PAYLOAD`: replace value with the JSON corresponding to the team settings you would like to change - code line `18`. To locate the API payload corresponding to the Team Settings in the Miro UI please review [this mapping table](https://docs.google.com/spreadsheets/d/1pd9WuR_7XWVg84h8c7I3kxaYmYnvNKlAcT5f9M5hvUg/edit?usp=sharing). Please make sure you confirm the payload with the official [Miro Teams Settings API documentation](https://developers.miro.com/reference/enterprise-update-team-settings) to make sure you are passing the correct desired values.
 
 6.2. Save your changes.
 
