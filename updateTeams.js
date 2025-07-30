@@ -7,7 +7,7 @@ The usage of this script is at the sole discretion and responsibility of the cus
 Script Author: Luis Colman (luis.s@miro.com) | Global Senior Solutions Architect at Miro | LinkedIn: https://www.linkedin.com/in/luiscolman/
 */
 
-const IS_TEST = true; // Change to false to perform team deletions
+const IS_TEST = true; // Change to false to perform updates to team settings
 const TOKEN = 'YOUR_MIRO_REST_API_TOKEN'; // Replace with your Miro REST API token
 const MIRO_ORGANIZATION_ID = 'YOUR_MIRO_ORGANIZATION_ID'; // Replace with your Miro Company ID
 /* 
