@@ -12,7 +12,7 @@ The usage of this script is at the sole discretion and responsibility of the cus
 ## Requirements
 
 * [NodeJS 16.x or higher installed](https://nodejs.org/en/download/)
-* You must be a __Company Admin__ in your Miro account, or at least the user generating the token must be a __Company Admin__ in your Miro account (see steps 3 to 5)
+* You must be a __Company Admin__ in your Miro account, or at least the user generating the token must be a __Company Admin__ in your Miro account (see steps 3 and 4)
 
 ## Step 1. Install Node.js
 
