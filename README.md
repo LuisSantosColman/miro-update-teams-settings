@@ -2,7 +2,7 @@
 
 This repository contains a script in JavaScript/Node.js to delete empty Miro teams using Miro's REST API.
 
-The script provides a __TEST MODE__ flag to run it without performing any changes. (See __step 6__ further below).
+The script provides a __TEST MODE__ flag to run it without performing any changes. (See __step 5__ further below).
 
 ## Disclaimer
 The content of this project is subject to the Miro Developer Terms of Use: https://miro.com/legal/developer-terms-of-use/<br>
