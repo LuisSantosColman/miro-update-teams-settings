@@ -34,7 +34,7 @@ The usage of this script is at the sole discretion and responsibility of the cus
 
 ## Step 4. Create a Miro App to get a REST API Token
 
-4.1. To create a new application on your Miro Enterprise account using the Enterprise Developer team, navigate to __[Profile settings](https://help.miro.com/hc/en-us/articles/4408879513874-Profile-settings) > Your apps__, agree to the terms and conditions, and click on __+ Create new app__.
+4.1. To create a new application on your Miro Enterprise account using the Enterprise Developer team, navigate to __[Profile](https://help.miro.com/hc/en-us/articles/4408879513874-Profile-settings) > Your apps__, agree to the terms and conditions, and click on __+ Create new app__.
 
 <img src="https://miro-org.s3.eu-central-1.amazonaws.com/board_classification/Create_new_app.png" alt="Accept app terms screenshot" width="502" />
 
